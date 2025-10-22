@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "243340119233",
+    "firebase_url": "https://lulwas-food-app-default-rtdb.firebaseio.com",
+    "project_id": "lulwas-food-app",
+    "storage_bucket": "lulwas-food-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243340119233:android:f9ee8c63fb3f9518411840",
+        "android_client_info": {
+          "package_name": "com.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc8WI_GohrVtf39Pq78XAKqzjdRMhWiYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243340119233:android:8e8f4a3ee9f9dcf0411840",
+        "android_client_info": {
+          "package_name": "com.foodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc8WI_GohrVtf39Pq78XAKqzjdRMhWiYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
